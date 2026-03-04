@@ -13,7 +13,7 @@ Runs in <10 seconds on any laptop. Exactly reproduces the lepton ratios from the
 
 ## Quick Start
 ```bash
-git clone https://github.com/hirokibone/Relational-Emergence-Theory.git
-cd Relational-Emergence-Theory
+git clone https://github.com/TheDidgeriDojo/RET-simulations.git
+cd RET-simulations
 pip install -r requirements.txt
 python ret_minimal.py
